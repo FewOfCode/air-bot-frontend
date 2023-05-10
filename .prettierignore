@@ -1,0 +1,5 @@
+!**/*/src-tauri/tauri.conf.json
+**/*/src-tauri
+cache
+dist
+node_modules

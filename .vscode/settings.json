@@ -1,5 +1,3 @@
 {
-    "conventionalCommits.scopes": [
-        "airbot-studio"
-    ]
+  "conventionalCommits.scopes": ["airbot-studio"]
 }
