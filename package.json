@@ -1,0 +1,25 @@
+{
+  "name": "air-bot-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
+  },
+  "keywords": [],
+  "author": {
+    "name": "lzhida",
+    "url": "https://github.com/lzhida"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/FewOfCode/air-bot-frontend",
+  "license": "MIT",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.1",
+    "typescript": "^5.0.4"
+  }
+}
