@@ -1,7 +1,13 @@
-# Tauri + React + Typescript
+# AirBot Studio
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+`AirBot Studio` 是 `AirBot` RPA项目的设计器。
 
-## Recommended IDE Setup
+## 快速开始
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+```shell
+# 开发
+pnpm tauri dev
+
+# 打包
+pnpm tauri build
+```
