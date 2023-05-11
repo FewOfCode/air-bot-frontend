@@ -4,8 +4,8 @@ printWidth: 80
 tabWidth: 2
 # 不使用缩进符，而使用空格
 useTabs: false
-# 行尾需要有分号
-semi: true
+# 行尾不要有分号
+semi: false
 # 使用单引号
 singleQuote: true
 # 对象的 key 仅在必要时用引号
@@ -14,8 +14,8 @@ quoteProps: 'as-needed'
 trailingComma: 'all'
 # 大括号内的首尾需要空格
 bracketSpacing: true
-# 箭头函数，只有一个参数的时候，也需要括号
-arrowParens: 'always'
+# 箭头函数，只有一个参数的时候，不需要括号
+arrowParens: 'avoid'
 # 每个文件格式化的范围是文件的全部内容
 rangeStart: 0
 # rangeEnd: -1
